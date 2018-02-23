@@ -1,0 +1,27 @@
+{
+  "name": "service-lru",
+  "version": "1.0.0",
+  "description": "cache http request use lru-cache",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltinyho/services-lru.git"
+  },
+  "keywords": [
+    "cache",
+    "http"
+  ],
+  "author": "ltinyho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltinyho/services-lru/issues"
+  },
+  "homepage": "https://github.com/ltinyho/services-lru#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lru-cache": "^4.1.1"
+  }
+}
