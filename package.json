@@ -22,6 +22,7 @@
   "homepage": "https://github.com/ltinyho/services-lru#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "lru-cache": "^4.1.1"
+    "lru-cache": "^4.1.1",
+    "qs": "^6.5.1"
   }
 }
